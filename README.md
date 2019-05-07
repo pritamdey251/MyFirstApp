@@ -47,23 +47,28 @@ You can switch locales by going to system settings and changing language/region 
 Set Locale using System snapshot: 
 ![alt text](https://github.com/pritamdey251/MyFirstApp/blob/master/img/SystemLocale.png "System Locale")
 
+
 Setting Locale to ar_AE:
+
 ![alt text](https://github.com/pritamdey251/MyFirstApp/blob/master/img/ar_AE_Home.png "ar_AE Home screen")
 
 ![alt text](https://github.com/pritamdey251/MyFirstApp/blob/master/img/ar_AE_App.png "ar_AE App screen")
 
 
 Setting Locale to fr_FR:
+
 ![alt text](https://github.com/pritamdey251/MyFirstApp/blob/master/img/fr_FR_Home.png "fr_FR Home screen")
 
 ![alt text](https://github.com/pritamdey251/MyFirstApp/blob/master/img/fr_FR_App.png "fr_FR App screen")
 
 
 Setting Locale to en_US:
+
 ![alt text](https://github.com/pritamdey251/MyFirstApp/blob/master/img/en_US_App.png "en_US App screen")
 
 
 Set Locale using MoreLocale2 (Optional): 
+
 ![alt text](https://github.com/pritamdey251/MyFirstApp/blob/master/img/MoreLocale2.png "MoreLocale 2")
 
 
